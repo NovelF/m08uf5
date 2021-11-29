@@ -1,9 +1,16 @@
-table,th,td {
-    border: 1px solid black;
-    border-collapse :collapse;
-    padding: 10px;
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
 }
 
 .img1 {
-text-align: center;
+  text-align: center;
+}
+
+#descans {
+    text-align: center
+    ;
 }
