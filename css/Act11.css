@@ -1,0 +1,27 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+.d {
+  text-align: center;
+}
+
+.m04 {
+  background-color: crimson;
+}
+.m06 {
+  background-color: cyan;
+}
+.m07 {
+  background-color: darkseagreen;
+}
+.m08 {
+  background-color: coral;
+}
+.m10 {
+    background-color: darkslateblue;
+}
