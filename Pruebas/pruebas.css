@@ -1,0 +1,7 @@
+table,
+th,
+td {
+  border: 1em solid black;
+  padding: 5em;
+  text-align: center;
+}
