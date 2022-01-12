@@ -1,0 +1,93 @@
+.G {
+  background-color: beige;
+  height: 600px;
+  width: 600px;
+  position: absolute;
+}
+.B1 {
+  background: url(./IMG/estudiandojpg.jpg);
+  background-repeat: no-repeat;
+  background-size: 600px 75px;
+  height: 75px;
+  width: 600px;
+  margin-bottom: 10px;
+}
+.B2 {
+  background: url(./IMG/Alien.jpg);
+  background-repeat: no-repeat;
+  background-size: 190px 75px;
+  height: 75px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  position: absolute;
+}
+.B3 {
+  background: url(./IMG/al0.png);
+  background-repeat: no-repeat;
+  background-size: 400px 247px;
+  height: 247px;
+  width: 400px;
+  margin-bottom: 10px;
+  position: absolute;
+  right: 0px;
+}
+.B4 {
+  background: url(./IMG/emoji.jpg);
+  background-size: 190px 75px;
+  height: 75px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 95px;
+}
+.B5 {
+  background: url(./IMG/Knackles.jpg);
+  background-size: 190px 75px;
+  height: 75px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.B6 {
+  background: url(./IMG/hotwheels.jpg);
+  background-size: 190px 190px;
+  height: 150px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  color: red;
+  position: absolute;
+}
+.B7 {
+  background: url(./IMG/homer.jpg);
+  background-size: 190px 70px;
+  height: 70px;
+  width: 190px;
+  position: absolute;
+  right: 210px;
+}
+.B8 {
+  background: url(./IMG/maick.jpg);
+  background-size: 190px 70px;
+  height: 70px;
+  width: 190px;
+  position: absolute;
+  right: 210px;
+  margin-top: 80px;
+}
+.B9 {
+  background: url(./IMG/Juan.jpg);
+  background-size: 200px 255px;
+  height: 255px;
+  width: 200px;
+  position: absolute;
+  right: 0px;
+}
+.B10 {
+  background: url(./IMG/myman.png);
+  background-size: 390px 95px;
+  height: 95px;
+  width: 390px;
+  margin-top: 170px;
+}
