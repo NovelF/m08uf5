@@ -1,0 +1,80 @@
+.G {
+  background-color: beige;
+  height: 600px;
+  width: 600px;
+  position: absolute;
+}
+.B1 {
+  background-color: greenyellow;
+  height: 75px;
+  width: 600px;
+  margin-bottom: 10px;
+}
+.B2 {
+  background-color: green;
+  height: 75px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  position: absolute;
+}
+.B3 {
+  background-color: cyan;
+  height: 247px;
+  width: 400px;
+  margin-bottom: 10px;
+  position: absolute;
+  right: 0px;
+}
+.B4 {
+  background-color: greenyellow;
+  height: 75px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 95px;
+}
+.B5 {
+  background-color: greenyellow;
+  height: 75px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.B6 {
+  background-color: black;
+  height: 150px;
+  width: 190px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  color: red;
+  position: absolute;
+}
+.B7 {
+  background-color: greenyellow;
+  height: 70px;
+  width: 190px;
+  position: absolute;
+  right: 210px;
+}
+.B8 {
+  background-color: green;
+  height: 70px;
+  width: 190px;
+  position: absolute;
+  right: 210px;
+  margin-top: 80px;
+}
+.B9 {
+  background-color: greenyellow;
+  height: 255px;
+  width: 200px;
+  position: absolute;
+  right: 0px;
+}
+.B10 {
+  background-color: greenyellow;
+  height: 95px;
+  width: 390px;
+  margin-top: 170px;
+}
