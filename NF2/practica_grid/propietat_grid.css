@@ -1,0 +1,78 @@
+#div1 {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#goku1 {
+  grid-column-start: 3;
+}
+#div2 {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#termina {
+  grid-column-start: 3;
+  grid-column-end: 4;
+}
+#div3 {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#div3 {
+  grid-column-start: 2;
+  grid-column-end: span 2;
+}
+#div4 {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#water {
+  grid-column: 4/6;
+}
+#div5 {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#termina3 {
+  grid-row-start: 3;
+  grid-column-start: 2;
+}
+#view1 {
+  grid-row-start: 3;
+  grid-column-start: 2;
+}
+#div6 {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+#kinton {
+  order: 0;
+  grid-row-start: 2;
+  grid-column-start: 2;
+  opacity: 30%;
+}
+#goku3 {
+  order: 1;
+  grid-row-start: 2;
+  grid-column-start: 2;
+}
+#div7 {
+    display: grid;
+  grid-template-columns:50%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
+  
+  #vegeta {
+    grid-column: ;
+    grid-row: 1;
+  }
