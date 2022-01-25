@@ -1,0 +1,35 @@
+.M {
+  background-color: #fef2cd;
+  width: 830px;
+}
+.left{
+  width: 0px;
+  float: left;
+}
+.right{
+  float: right;
+  width: 137px;
+  
+}
+.S{
+  margin-left: 140px;
+}
+
+.GIF{
+  display: flex;
+  justify-content: center;
+  
+}
+#gg{
+  width: 300px;
+  height: 300px;
+  margin-left: 140px;
+}
+.W{
+  display: flex;
+  justify-content: center;
+  margin-left: 170px;
+  margin-top: 40px;
+  width: 500px;
+  height: 200px;
+}
