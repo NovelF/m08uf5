@@ -1,0 +1,38 @@
+header>nav>ul{
+    list-style: none;
+}
+.btn-header{
+    margin-right: 10px;
+}
+
+#BHOM{
+    background-color: rgba(128, 128, 128, 0.267);
+}
+#BKAN{
+    background-color:rgba(255, 255, 0, 0.377);
+}
+#BJOH{
+background-color: rgba(255, 0, 0, 0.671);
+}
+#BHOE{
+background-color: rgba(0, 119, 255, 0.377);
+}
+#T {
+    font-size: 40px;
+}
+
+#j {
+    font-size: 70px;
+}
+#H{
+    color: gray;
+}
+#K{
+    color: orange;
+}
+#J{
+    color: red;
+}
+#O{
+    color: blue;
+}
