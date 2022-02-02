@@ -1,3 +1,6 @@
+body {
+    position: relative; 
+}
 header>nav>ul{
     list-style: none;
 }
@@ -17,12 +20,20 @@ background-color: rgba(255, 0, 0, 0.671);
 #BHOE{
 background-color: rgba(0, 119, 255, 0.377);
 }
-#T {
-    font-size: 40px;
+
+.CI{
+    width: 1080px;
+    height: 1000px;
 }
 
-#j {
+.T2{
+    font-size: 40px;
+}
+.T1{
     font-size: 70px;
+}
+.TK{
+    margin-right: 20px;
 }
 #H{
     color: gray;
@@ -35,4 +46,4 @@ background-color: rgba(0, 119, 255, 0.377);
 }
 #O{
     color: blue;
-}
+} 
