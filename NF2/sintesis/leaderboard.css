@@ -18,7 +18,7 @@ a {
 }
 
 header {
-  background-color: #ff7500;
+  background-color: #329e83;
   color: white;
   text-transform: uppercase;
   border-top-left-radius: 1rem;
@@ -63,7 +63,7 @@ nav a {
 }
 
 nav a.active {
-  border-bottom: 4px solid #f0a900;
+  border-bottom: 4px solid #329e83;
 }
 
 nav a:first-child {
@@ -105,8 +105,8 @@ tbody tr:nth-child(2n) {
 }
 
 .rank,
-.sp,
-.kd {
+.wins,
+.defeats {
   text-align: right;
 }
 
