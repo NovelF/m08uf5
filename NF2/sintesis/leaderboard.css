@@ -115,8 +115,8 @@ tbody tr:nth-child(2n) {
   padding-left: 1rem;
 }
 
-.sp,
-.kd {
+.wins,
+.defeats {
   width: 8ch;
 }
 
