@@ -27,7 +27,7 @@ a {
   position: relative;
 }
 
-.headerV {
+.headerC {
   background-color: #329e83;
   color: white;
   text-transform: uppercase;
@@ -37,7 +37,7 @@ a {
   position: relative;
 }
 
-.headerC {
+.headerV {
   background-color: #329e83;
   color: white;
   text-transform: uppercase;
@@ -56,7 +56,6 @@ a {
   height: 13rem;
   position: relative;
 }
-
 
 h1 {
   font-size: 3rem;
