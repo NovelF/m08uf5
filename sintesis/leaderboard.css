@@ -67,6 +67,22 @@ nav a {
   font-weight: bold;
 }
 
+nav a.activeL{
+  border-bottom: 4px solid #329e83;
+}
+
+nav a.activeV{
+  border-bottom: 4px solid #329e83;
+}
+
+nav a.activeC{
+  border-bottom: 4px solid #329e83;
+}
+
+nav a.activeR{
+  border-bottom: 4px solid #329e83;
+}
+
 nav a.active {
   border-bottom: 4px solid #329e83;
 }
