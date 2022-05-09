@@ -4,11 +4,6 @@
   box-sizing: border-box;
 }
 
-.IMGT1{
-  height: 30px;
-  width: 30px;
-}
-
 .leaderboard {
   max-width: 100%;
   margin: 6rem auto;
@@ -22,7 +17,7 @@ a {
   color: inherit;
 }
 
-header {
+.headerL {
   background-color: #329e83;
   color: white;
   text-transform: uppercase;
@@ -31,6 +26,37 @@ header {
   height: 13rem;
   position: relative;
 }
+
+.headerV {
+  background-color: #329e83;
+  color: white;
+  text-transform: uppercase;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  height: 13rem;
+  position: relative;
+}
+
+.headerC {
+  background-color: #329e83;
+  color: white;
+  text-transform: uppercase;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  height: 13rem;
+  position: relative;
+}
+
+.headerR {
+  background-color: #329e83;
+  color: white;
+  text-transform: uppercase;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  height: 13rem;
+  position: relative;
+}
+
 
 h1 {
   font-size: 3rem;
