@@ -4,9 +4,14 @@
   box-sizing: border-box;
 }
 
+.IMGT1{
+  height: 30px;
+  width: 30px;
+}
+
 .leaderboard {
   max-width: 100%;
-  margin: 5rem auto;
+  margin: 6rem auto;
   border-radius: 1rem;
   box-shadow: 2px 2px 16px 1px #aaa;
   font-family: sans-serif;
